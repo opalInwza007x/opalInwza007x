@@ -8,5 +8,6 @@ Just some skill issue people that like VTubers.
 
 ## Interests:
 - Favorite VTubers: Karu (ขาเลาะ)
-![image](https://github.com/user-attachments/assets/9e2da33d-1958-4632-b085-69af6041b0d8)
+
+<img src="https://github.com/user-attachments/assets/9e2da33d-1958-4632-b085-69af6041b0d8" width="750px" align="center">
 
