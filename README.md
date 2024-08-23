@@ -11,3 +11,4 @@ Just some skill issue people that like VTubers.
 
 <img src="https://github.com/user-attachments/assets/9e2da33d-1958-4632-b085-69af6041b0d8" width="750px" align="center">
 
+- Content I Enjoy: ร้องหมอลำ
