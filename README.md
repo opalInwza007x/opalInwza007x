@@ -1,14 +1,5 @@
-# opal_Inwza007x:
-I'm Average C++ Enjoyer (Noob ❓)
+# Howdy 👋:
 
-Computer Engineering And Digital Technology Chulalongkorn University.
-
-# What's my skills:
-Just some skill issue people that like VTubers.
-
-## Interests:
-Karu (ขาเลาะ)
-
-<img src="https://github.com/user-attachments/assets/9e2da33d-1958-4632-b085-69af6041b0d8" alt="Circular Image" style="border-radius: 50%; width: 200px; height: 200px;">
-
-
+- 📚 I am a passionate Computer Engineering & Digital Technology student at Chulalongkorn University, currently on a quest to conquer the vast world of competitive programming! 
+- 🔥 I'm always want to learn and new concepts of algorithms, Feel free to reach out if you want to discuss:
+- 📫 Contact: [opal_Inwza007x](https://www.instagram.com/opal_lnwza007x/)
